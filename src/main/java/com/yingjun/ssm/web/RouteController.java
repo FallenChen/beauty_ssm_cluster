@@ -1,7 +1,6 @@
 
 public class RouteController {
 
-
    /**
      * 根据路由获取优先级最高的路由记录
      * @param heads
